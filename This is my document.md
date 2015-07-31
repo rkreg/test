@@ -1,8 +1,8 @@
-This is my document
+This is our document
 
 There are many important things in this document.
 
-I want to keep track of all of the things, and know hwne thing s have
+I want to keep track of all of the things, and know when things have
 changed
 
-Even if the things are small
+Even if the things are *tiny*
